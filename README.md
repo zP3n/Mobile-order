@@ -1,2 +1,2 @@
-# Mobile-order
-文化祭の出店などで使えるモバイルオーダーシステムです。
+# Discord Mention Bot
+それだけ。
